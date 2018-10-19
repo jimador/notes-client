@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jimador.notes.client"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "microservice",
+    "baseName": "client",
+    "packageName": "org.jimador.notes.client",
+    "packageFolder": "org/jimador/notes/client",
+    "serverPort": "9995",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YjZkYzkxYTBhZjY2OTJmN2ZiNWUwMDkzODVhNzQ5OTU1ODI3Yjg3NWJlODU3ODk4NDMyMThmNTk1Y2E3NmNlM2FiNDY4MjY2YWFmODNjYTUwYTg1ZTk4YTJjZDdmM2EyNDI4NDViNWE5ZmUzMDcyYzk0YzI4OGFmMDNhYmYxMmY=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
